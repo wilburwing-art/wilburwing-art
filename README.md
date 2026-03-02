@@ -8,7 +8,7 @@ Building data-intensive systems that connect AI capabilities to real-world workf
 
 **MCP Servers** — Extending Claude's reach into desktop applications (Blender, Apple Notes) through the Model Context Protocol. Building the bridge between LLMs and the tools people already use.
 
-**Multi-Model Orchestration** — Routing to the right model for the right task. Claude Opus for deep reasoning, Sonnet for conversation, GPT for cheap extraction, Gemini for million-token context. Keeping AI costs under $20/month for real applications.
+**Multi-Model Orchestration** — Routing to the right model for the right task. Claude Opus for deep reasoning, Sonnet for conversation, GPT for cheap extraction, Gemini for million-token context. 
 
 ## Featured Projects
 
